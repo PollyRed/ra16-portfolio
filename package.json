@@ -1,6 +1,7 @@
 {
   "name": "ra16-portfolio",
   "version": "0.1.0",
+   "description": "[![Build status](https://ci.appveyor.com/api/projects/status/e31eckm3a18wgocw?svg=true)](https://ci.appveyor.com/project/PollyRed/ra16-portfolio)",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
