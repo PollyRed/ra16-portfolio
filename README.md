@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/e31eckm3a18wgocw?svg=true)](https://ci.appveyor.com/project/PollyRed/ra16-portfolio)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
